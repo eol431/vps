@@ -1,0 +1,9 @@
+{
+  "name": "rivals-fps",
+  "version": "1.0.0",
+  "description": "RIVALS - 친구들과 총싸움 (Render 배포용 멀티플레이 서버)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
